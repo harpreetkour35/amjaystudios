@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/%7Bamjaystudios%7D/static/css/main.8c2a74ee.css",
+    "main.js": "/%7Bamjaystudios%7D/static/js/main.3b9a3d5b.js",
+    "static/media/videoBg.mp4": "/%7Bamjaystudios%7D/static/media/videoBg.b52f6569628f2fe2eb45.mp4",
+    "index.html": "/%7Bamjaystudios%7D/index.html",
+    "main.8c2a74ee.css.map": "/%7Bamjaystudios%7D/static/css/main.8c2a74ee.css.map",
+    "main.3b9a3d5b.js.map": "/%7Bamjaystudios%7D/static/js/main.3b9a3d5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c2a74ee.css",
+    "static/js/main.3b9a3d5b.js"
+  ]
+}
